@@ -1,3 +1,4 @@
 models/snapshots
 models/log
 results
+statistics/__pycache__
