@@ -1,8 +1,8 @@
 # Tmor-Da-AbM-GAMA-Macro1
-GAMA V1.7 - Agent-based model of Tmor-Da's Macro1
-The urban dynamics observable in an informal settlement are akin to the characteristics of a complex adaptive system. In this paper, we describe an Agent-Based Model designed to simulate the urban dynamics of an informal settlement, Tmor-Da, in Phnom Penh, Cambodia. The overarching goal was to understand the possible rules that guided the development of built forms and the use of residue spaces in Tmor-Da. A series of simulation experiments were used to examine alternative hypotheses derived from field work and desktop analysis related to morphological changes associated with spatial units, including homes, shops, the orphanage, church and temple. The results suggest that the complex, emergent patterns encapsulated within the informal settlement could be reproduced in a simulation model. We conclude that our model can be used as an investigative tool to explore the most plausible factors contributing to the evolutionary trajectory of an informal settlement. 
-Keywords informal settlement, urban evolution, urban morphology, agent-based model, complex adaptive system
-Publication links:
+# GAMA V1.7 - Agent-based model (AbM) of Tmor-Da's Macro1
+This AbM was designed to simulate the urban dynamics of an informal settlement, Tmor-Da, in Phnom Penh, Cambodia. The overarching goal was to understand the possible rules that guided the development of built forms and the use of residue spaces in Tmor-Da. A series of simulation experiments were used to examine alternative hypotheses derived from field work and desktop analysis related to morphological changes associated with spatial units, including homes, shops, the orphanage, church and temple. The results suggest that the complex, emergent patterns encapsulated within the informal settlement could be reproduced in a simulation model. We conclude that our model can be used as an investigative tool to explore the most plausible factors contributing to the evolutionary trajectory of an informal settlement. 
+Keywords: informal settlement, urban evolution, urban morphology, agent-based model, complex adaptive system
+# Publication links:
 Presented at Sigradi2018
 Ku, Yee Kee; Kirley, Michael; Karakiewicz, Justyna; Jiang, Yi Mo; "Conceptualizing the evolution of Tmor-Da", p. 238-244 . In: . São Paulo: Blucher, 2018. 
 ISSN 2318-6968, DOI 10.5151/sigradi2018-1413
