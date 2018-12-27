@@ -1,4 +1,4 @@
-# Tmor-Da-AbM-GAMA-Macro1
+# Tmor-Da-AbM-GAMA-Macro1 DOI: 10.13140/RG.2.2.31084.21124
 # GAMA V1.7 - Agent-based model (AbM) of Tmor-Da's Macro1
 This AbM was designed to simulate the urban dynamics of an informal settlement, Tmor-Da, in Phnom Penh, Cambodia. The overarching goal was to understand the possible rules that guided the development of built forms and the use of residue spaces in Tmor-Da. A series of simulation experiments were used to examine alternative hypotheses derived from field work and desktop analysis related to morphological changes associated with spatial units, including homes, shops, the orphanage, church and temple. The results suggest that the complex, emergent patterns encapsulated within the informal settlement could be reproduced in a simulation model. We conclude that our model can be used as an investigative tool to explore the most plausible factors contributing to the evolutionary trajectory of an informal settlement. 
 Keywords: informal settlement, urban evolution, urban morphology, agent-based model, complex adaptive system
