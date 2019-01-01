@@ -9,3 +9,4 @@ ISSN 2318-6968, DOI 10.5151/sigradi2018-1413
 https://www.proceedings.blucher.com.br/article-details/conceptualizing-the-evolution-of-tmor-da-29792
 https://www.researchgate.net/publication/328677560_Conceptualizing_the_evolution_of_Tmor-Da
 https://www.findanexpert.unimelb.edu.au/display/publicationS1359684
+animation: https://vimeo.com/308659611
